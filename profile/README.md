@@ -1,68 +1,70 @@
 # Miraigent
 
-Miraigent helps small and growing businesses organize their workflow before introducing AI.
+Miraigent helps teams build reviewable AI operations before customer work is sent to AI.
 
-Miraigentは、問い合わせ対応、営業導線、FAQ、CRM記録、AI利用可否を整理し、AIを入れるべき業務と、人間が確認すべき業務を切り分ける業務改善パートナーです。
+We focus on the operating layer around AI:
 
-## What We Do
+- prompt safety
+- human review gates
+- CRM notes
+- FAQ candidates
+- customer data anonymization
+- support workflow logs
+- Agent Memories and MCP-ready operating patterns
 
-We do not start from AI automation.
+AI is useful only when the workflow around it is clear.
 
-We start from the actual workflow:
+## Free AI Operations Templates
 
-- Where time is being lost
-- Where replies are delayed
-- Where customer information is scattered
-- Which tasks can safely use AI
-- Which tasks should stay under human review
-- What should be recorded before automation
+We publish free templates for small teams that want to use AI in customer operations without losing reviewability.
 
-AI is useful only when the operation around it is clear.
+Start here:
 
-## Services
+https://miraigent.com/en/free-ai-operations-templates.html
 
-- AI導入可否の無料診断
-- 問い合わせフォーム / 受付ログ設計
-- FAQ候補とCRM項目の整理
-- 営業導線・初回返信導線の改善
-- AI下書きと人間確認フローの設計
-- 中小企業向けの業務改善メモ作成
+The free set includes:
 
-## Operating Principles
+- Before You Send It to AI Checklist
+- FAQ Candidate Review Checklist
+- AI Prompt Risk Review Sheet
+- Human Review Gate for AI Drafts
+- AI-Safe CRM Notes Template
+- Pre-AI Intake Form Questions
+- Do Not Send to AI List Template
+- AI Output Review Checklist
+- Customer Data Anonymization Mini Guide
+- AI Support Workflow Starter Map
 
-- AIありきで設計しない
-- 個人情報、契約、返金、クレームは人間確認を前提にする
-- AIに渡す情報と渡さない情報を分ける
-- 出力結果だけでなく、判断理由と確認ログを残す
-- 小さく始めて、実務で回る範囲から自動化する
+## What We Build
+
+Miraigent designs practical AI operations resources for teams preparing AI-assisted support, sales, CRM, and knowledge workflows.
+
+We do not start from full automation.
+
+We start from:
+
+- what AI may receive
+- what should be masked or rewritten
+- what must stay under human review
+- what should be recorded in CRM, FAQ, or logs
+- how teams can reuse operational memory safely
 
 ## Links
 
 - Website: https://miraigent.com/
-- Free diagnosis: https://miraigent.com/diagno
+- Free templates: https://miraigent.com/en/free-ai-operations-templates.html
+- Free diagnosis: https://miraigent.com/en/diagnosis.html
 - Blog: https://miraigent.com/blog/
-- X: https://x.com/miraigent
 - note: https://note.com/miraigent
+- X: https://x.com/miraigent
 - Qiita: https://qiita.com/Miraigent
 - Zenn: https://zenn.dev/miraigent
 - LinkedIn: https://www.linkedin.com/in/miraigent-llc-524716412/
 
-## Current Focus
+## Japanese
 
-Miraigent is currently building practical content and templates around:
+Miraigentは、AIを導入する前に、問い合わせ対応、FAQ候補、CRM記録、人間確認、AIに渡してよい情報と渡してはいけない情報を整理するための実務テンプレートと診断導線を作っています。
 
-- AI導入前の問い合わせ受付ログ
-- FAQ候補とCRM項目の同時管理
-- AI返信前の人間確認フロー
-- 中小企業向けの無料診断導線
-- 業務コストと売上機会損失の可視化
+無料テンプレート一覧:
 
-## Contact
-
-For inquiries, please use the free diagnosis form:
-
-https://miraigent.com/diagno
-
----
-
-Miraigent LLC is currently in preparation.
+https://miraigent.com/en/free-ai-operations-templates.html
