@@ -14,13 +14,26 @@ We focus on the operating layer around AI:
 
 AI is useful only when the workflow around it is clear.
 
+## Start Here
+
+- Public resource hub: https://miraigent.com/resources
+- Free diagnosis: https://miraigent.com/diagnosis
+- GitHub templates and MCP starter: https://github.com/Miraigent/miraigent-ai-ops-templates
+- npm package: https://www.npmjs.com/package/@miraigent/ai-ops-templates
+- Technical articles: https://qiita.com/Miraigent and https://zenn.dev/miraigent
+- Agent Memories: https://agentmemories.jp/
+
+日本語で確認したい方は、まず公開リソースをご確認ください。
+
+https://miraigent.com/resources
+
 ## Free AI Operations Templates
 
 We publish free templates for small teams that want to use AI in customer operations without losing reviewability.
 
 Start here:
 
-https://miraigent.com/en/free-ai-operations-templates.html
+https://miraigent.com/resources
 
 The free set includes:
 
@@ -52,8 +65,10 @@ We start from:
 ## Links
 
 - Website: https://miraigent.com/
+- Public resources: https://miraigent.com/resources
 - Free templates: https://miraigent.com/en/free-ai-operations-templates.html
-- Free diagnosis: https://miraigent.com/en/diagnosis.html
+- Free diagnosis: https://miraigent.com/diagnosis
+- npm: https://www.npmjs.com/package/@miraigent/ai-ops-templates
 - Blog: https://miraigent.com/blog/
 - note: https://note.com/miraigent
 - X: https://x.com/miraigent
@@ -67,4 +82,4 @@ Miraigentは、AIを導入する前に、問い合わせ対応、FAQ候補、CRM
 
 無料テンプレート一覧:
 
-https://miraigent.com/en/free-ai-operations-templates.html
+https://miraigent.com/resources
